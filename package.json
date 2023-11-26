@@ -11,9 +11,16 @@
     "postinstall": "nuxt prepare",
     "preview": "nuxt preview"
   },
+  "dependencies": {
+    "@unocss/reset": "^0.57.7"
+  },
   "devDependencies": {
     "@antfu/eslint-config": "^2.1.0",
     "@nuxt/devtools": "latest",
+    "@unocss/nuxt": "^0.57.7",
+    "@unocss/preset-attributify": "^0.57.7",
+    "@unocss/preset-uno": "^0.57.7",
+    "@unocss/preset-web-fonts": "^0.57.7",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
     "vue": "^3.3.8",
