@@ -13,7 +13,7 @@
   <h1>Template</h1>
   
   <a href="https://github.com/Schrodinger-Hat/template">
-    <img src="public/sh.png" alt="Logo" width="80" height="80">
+    <img src="assets/svg/sh-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
