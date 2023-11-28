@@ -4,4 +4,3 @@ export default defineNuxtConfig({
   modules: ['@unocss/nuxt', '@vueuse/nuxt', 'nuxt-vitest'],
   css: ['@unocss/reset/tailwind.css'],
 })
-

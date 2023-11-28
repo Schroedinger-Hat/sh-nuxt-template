@@ -5,6 +5,8 @@
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
+    "cy:o": "cypress open",
+    "cy:r": "cypress run",
     "generate": "nuxt generate",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
@@ -23,6 +25,7 @@
     "@unocss/preset-uno": "^0.57.7",
     "@unocss/preset-web-fonts": "^0.57.7",
     "@vueuse/nuxt": "^10.6.1",
+    "cypress": "^13.6.0",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
     "nuxt-vitest": "^0.11.5",
