@@ -8,6 +8,7 @@
     "generate": "nuxt generate",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
+    "lint:scss": "stylelint \"./**/*.{css,scss,sass,vue}\"",
     "postinstall": "nuxt prepare",
     "preview": "nuxt preview"
   },
@@ -21,6 +22,7 @@
     "@unocss/preset-attributify": "^0.57.7",
     "@unocss/preset-uno": "^0.57.7",
     "@unocss/preset-web-fonts": "^0.57.7",
+    "@vueuse/nuxt": "^10.6.1",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
     "sass": "^1.69.5",
