@@ -25,6 +25,7 @@
     "@vueuse/nuxt": "^10.6.1",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
+    "nuxt-vitest": "^0.11.5",
     "sass": "^1.69.5",
     "stylelint": "^15.11.0",
     "stylelint-config-idiomatic-order": "^9.0.0",
