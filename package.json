@@ -28,6 +28,7 @@
     "cypress": "^13.6.0",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
+    "nuxt-svgo": "^3.6.0",
     "nuxt-vitest": "^0.11.5",
     "sass": "^1.69.5",
     "stylelint": "^15.11.0",
