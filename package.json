@@ -23,6 +23,11 @@
     "@unocss/preset-web-fonts": "^0.57.7",
     "eslint": "^8.54.0",
     "nuxt": "^3.8.2",
+    "sass": "^1.69.5",
+    "stylelint": "^15.11.0",
+    "stylelint-config-idiomatic-order": "^9.0.0",
+    "stylelint-config-recommended-vue": "^1.5.0",
+    "stylelint-config-standard-scss": "^11.1.0",
     "vue": "^3.3.8",
     "vue-router": "^4.2.5"
   }
