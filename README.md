@@ -49,7 +49,7 @@
 
 ## About The Project
 
-This project is an opinionated, robust and efficient Nuxt.js template developed by the Schrödinger Hat team. It is designed to provide a solid starting point for both simple and complex web applications, incorporating best practices and cutting-edge technologies from the Vue and Nuxt ecosystem.
+This project, developed by the Schrödinger Hat team, is an opinionated, robust, and efficient Nuxt.js template. It's designed to serve as a minimalistic yet expandable starting point for both simple and complex web applications. The template incorporates best practices and cutting-edge technologies from the Vue and Nuxt ecosystem. With scalability at its core, it can adapt to the increasing demands and complexities of any project, providing a solid and efficient foundation that can be customized to suit your needs.
 
 ### Tech stack
 
@@ -74,6 +74,8 @@ Nuxt modules utilized:
 To use this template, simply clone the repository to your local machine, install the necessary dependencies with `pnpm install`, and start the development server with `pnpm run dev`.
 
 You can also utilize the template when creating a new repository directly from GitHub.
+
+If you need to add more modules go over to the [Nuxt Modules](https://nuxt.com/modules) page and follow the instructions listed over there to add one as needed.
 
 ## Contributing
 
