@@ -10,7 +10,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1>Template</h1>
+  <h1>Schrödinger Hat Nuxt Template</h1>
   
   <a href="https://github.com/Schrodinger-Hat/template">
     <img src="assets/svg/sh-logo.svg" alt="Logo" width="80" height="80">
@@ -49,15 +49,31 @@
 
 ## About The Project
 
-Here goes the description
+This project is an opinionated, robust and efficient Nuxt.js template developed by the Schrödinger Hat team. It is designed to provide a solid starting point for both simple and complex web applications, incorporating best practices and cutting-edge technologies from the Vue and Nuxt ecosystem.
 
 ### Tech stack
 
-<!-- USAGE EXAMPLES -->
+This project is built with a number of leading-edge technologies to ensure maximum efficiency and performance.
+In this project, the technologies utilized are:
+
+- [Nuxt3](https://nuxt.com/)
+- [SASS](https://sass-lang.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [Vue3](https://vuejs.org/)
+
+
+Nuxt modules utilized:
+- [Nuxt SVGO](https://nuxt.com/modules/nuxt-svgo)
+- [UnoCSS](https://nuxt.com/modules/unocss)
+- [Vitest](https://nuxt.com/modules/vitest)
+- [VueUse](https://nuxt.com/modules/vueuse)
+
 
 ## Usage
 
-<!-- CONTRIBUTING -->
+To use this template, simply clone the repository to your local machine, install the necessary dependencies with `pnpm install`, and start the development server with `pnpm run dev`.
+
+You can also utilize the template when creating a new repository directly from GitHub.
 
 ## Contributing
 
@@ -72,17 +88,17 @@ Don't forget to give the project a star! Thanks again!
 
 Schrodinger's Hat Team - [@schrodinger_hat](mailto:schrodinger.hat.show@gmail.com)
 
-Project Link: [https://github.com/Schrodinger-Hat/template](https://github.com/Schrodinger-Hat/template)
+Project Link: [Schrödinger Hat Nuxt template](https://github.com/Schrodinger-Hat/sh-nuxt-template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Schrodinger-Hat/template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/template.svg?style=for-the-badge
-[forks-url]: https://github.com/Schrodinger-Hat/template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/template?style=for-the-badge
-[stars-url]: https://github.com/Schrodinger-Hat/template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/template.svg?style=for-the-badge
-[issues-url]: https://github.com/Schrodinger-Hat/template/issues
+[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[forks-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/sh-nuxt-template?style=for-the-badge
+[stars-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[issues-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/issues
 
