@@ -1,5 +1,5 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-function sassAdditionalData() {
+const sassAdditionalData = () => {
   let additionalData = '@use "sass:math";'
   additionalData += '@import "@/assets/styles/_utils.scss";'
   additionalData += '@import "@/assets/styles/main.scss";'
