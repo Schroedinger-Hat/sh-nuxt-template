@@ -6,6 +6,7 @@
     "stylelint-config-standard-scss"
   ],
   "rules": {
-    "scss/comment-no-empty": null
+    "scss/comment-no-empty": null,
+    "function-name-case": ["lower", { "ignoreFunctions": ["toRem"] }]
   }
 }
