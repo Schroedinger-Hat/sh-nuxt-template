@@ -1,41 +1,36 @@
-# Pull Request
+<!---
+☝️ PR title should follow conventional commits (https://conventionalcommits.org)
 
-## Description
+Please carefully read the code of conduct before creating a pull request
+ 👉 https://www.schrodinger-hat.it/code-of-conduct
+-->
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context. List any dependencies that are required for this change.
+### 🔗 Linked issue
 
-Fixes # (issue)
+<!-- Please ensure there is an open issue and mention its number as #123 -->
 
-## Type of change
+### ❓ Type of change
 
-Please delete options that are not relevant.
+<!-- What types of changes does your code introduce? Put an `x` in all the boxes that apply. -->
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] This change requires a documentation update
+- [ ] 📖 Documentation (updates to the documentation, readme or JSdoc annotations)
+- [ ] 🐞 Bug fix (a non-breaking change that fixes an issue)
+- [ ] 👌 Enhancement (improving an existing functionality like performance)
+- [ ] ✨ New feature (a non-breaking change that adds functionality)
+- [ ] 🧹 Chore (updates to the build process or auxiliary tools and libraries)
+- [ ] ⚠️ Breaking change (fix or feature that would cause existing functionality to change)
 
-## How Has This Been Tested?
+### 📚 Description
 
-Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
+<!-- Describe your changes in detail -->
+<!-- Why is this change required? What problem does it solve? -->
+<!-- If it resolves an open issue, please link to the issue here. For example "Resolves #1337" -->
 
-- [ ] Test A
-- [ ] Test B
+### 📝 Checklist
 
-**Test Configuration**:
-* Firmware version:
-* Hardware:
-* Toolchain:
-* IGN Version:
+<!-- Put an `x` in all the boxes that apply. -->
+<!-- If your change requires a documentation PR, please link it appropriately -->
+<!-- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-## Checklist
-
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
-- [ ] I have added tests that prove my fix is effective or that my feature works
-- [ ] New and existing unit tests pass locally with my changes
-- [ ] Any dependent changes have been merged and published in downstream modules
-- [ ] I have checked my code and corrected any misspellings
+- [ ] I have linked an issue or discussion.
+- [ ] I have updated the documentation accordingly.
