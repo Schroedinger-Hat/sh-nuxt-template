@@ -86,7 +86,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Schrodinger's Hat Team - [@schrodinger_hat](mailto:schrodinger.hat.show@gmail.com)
+Schrödinger's Hat Team - [@schrodinger_hat](mailto:schrodinger.hat.show@gmail.com)
 
 Project Link: [Schrödinger Hat Nuxt template](https://github.com/Schrodinger-Hat/sh-nuxt-template)
 
