@@ -31,6 +31,7 @@
     "nuxt": "^3.9.0",
     "nuxt-svgo": "^3.7.0",
     "sass": "^1.69.5",
+    "simple-git-hooks": "^2.9.0",
     "stylelint": "^15.11.0",
     "stylelint-config-idiomatic-order": "^9.0.0",
     "stylelint-config-recommended-vue": "^1.5.0",
@@ -39,5 +40,8 @@
     "vitest-environment-nuxt": "^1.0.0",
     "vue": "^3.3.11",
     "vue-router": "^4.2.5"
+  },
+  "simple-git-hooks": {
+    "pre-commit": "pnpm run lint:fix"
   }
 }
