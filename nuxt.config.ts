@@ -8,10 +8,31 @@ const sassAdditionalData = () => {
 
 export default defineNuxtConfig({
   devtools: { enabled: true },
-  modules: ['@unocss/nuxt', '@vueuse/nuxt', '@nuxt/test-utils/module', 'nuxt-svgo'],
-  css: ['@unocss/reset/tailwind.css'],
+  modules: [
+    '@nuxt/test-utils/module',
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/color-mode',
+    '@vueuse/nuxt',
+    'nuxt-svgo',
+    'shadcn-nuxt',
+    '@nuxt/icon',
+  ],
+  colorMode: {
+    classSuffix: '',
+  },
   svgo: {
     defaultImport: 'component',
+  },
+  shadcn: {
+    /**
+     * Prefix for all the imported component
+     */
+    prefix: 'SC',
+    /**
+     * Directory that the component lives in.
+     * @default "./components/ui"
+     */
+    componentDir: './components/ui',
   },
   vite: {
     css: {
@@ -20,4 +41,5 @@ export default defineNuxtConfig({
       },
     },
   },
+  compatibilityDate: '2024-07-13',
 })

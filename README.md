@@ -17,12 +17,9 @@
   </a>
 
   <p align="center">
-    <br />
     <a href="https://github.com/Schrodinger-Hat/template/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://www.schrodinger-hat.it/">View Demo</a>
-    ·
     <a href="https://github.com/Schrodinger-Hat/Template/issues">Report Bug</a>
     ·
     <a href="https://github.com/Schrodinger-Hat/Template/issues">Request Feature</a>
@@ -46,7 +43,6 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-
 ## About The Project
 
 This project, developed by the Schrödinger Hat team, is an opinionated, robust, and efficient Nuxt.js template. It's designed to serve as a minimalistic yet expandable starting point for both simple and complex web applications. The template incorporates best practices and cutting-edge technologies from the Vue and Nuxt ecosystem. With scalability at its core, it can adapt to the increasing demands and complexities of any project, providing a solid and efficient foundation that can be customized to suit your needs.
@@ -58,13 +54,15 @@ In this project, the technologies utilized are:
 
 - [Nuxt3](https://nuxt.com/)
 - [SASS](https://sass-lang.com/)
+- [Shadcn Vue](https://www.shadcn-vue.com/)
+- [TailwindCSS](https://tailwindcss.com/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Vue3](https://vuejs.org/)
 
 Nuxt modules utilized:
+- [Nuxt Icon ](https://nuxt.com/modules/icon)
 - [Nuxt SVGO](https://nuxt.com/modules/nuxt-svgo)
 - [Nuxt Test Utils](https://github.com/nuxt/test-utils)
-- [UnoCSS](https://nuxt.com/modules/unocss)
 - [VueUse](https://nuxt.com/modules/vueuse)
 
 ## Usage
