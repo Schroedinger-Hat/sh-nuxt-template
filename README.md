@@ -12,17 +12,17 @@
 <div align="center">
   <h1>Schrödinger Hat Nuxt Template</h1>
 
-  <a href="https://github.com/Schrodinger-Hat/template">
+  <a href="https://github.com/schroedinger-Hat/template">
     <img src="assets/svg/sh-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
-    <a href="https://github.com/Schrodinger-Hat/template/blob/main/README.md"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/schroedinger-Hat/template/blob/main/README.md"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Schrodinger-Hat/Template/issues">Report Bug</a>
+    <a href="https://github.com/schroedinger-Hat/Template/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Schrodinger-Hat/Template/issues">Request Feature</a>
+    <a href="https://github.com/schroedinger-Hat/Template/issues">Request Feature</a>
   </p>
 </div>
 
@@ -84,18 +84,18 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Schrödinger's Hat Team - [@schrodinger_hat](mailto:schrodinger.hat.show@gmail.com)
+Schrödinger's Hat Team - [@schroedinger_hat](mailto:dev@schroedinger-hat.org)
 
-Project Link: [Schrödinger Hat Nuxt template](https://github.com/Schrodinger-Hat/sh-nuxt-template)
+Project Link: [Schrödinger Hat Nuxt template](https://github.com/schroedinger-Hat/sh-nuxt-template)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
-[contributors-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
-[forks-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/network/members
-[stars-shield]: https://img.shields.io/github/stars/Schrodinger-Hat/sh-nuxt-template?style=for-the-badge
-[stars-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Schrodinger-Hat/sh-nuxt-template.svg?style=for-the-badge
-[issues-url]: https://github.com/Schrodinger-Hat/sh-nuxt-template/issues
+[contributors-shield]: https://img.shields.io/github/contributors/schroedinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[contributors-url]: https://github.com/schroedinger-Hat/sh-nuxt-template/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/schroedinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[forks-url]: https://github.com/schroedinger-Hat/sh-nuxt-template/network/members
+[stars-shield]: https://img.shields.io/github/stars/schroedinger-Hat/sh-nuxt-template?style=for-the-badge
+[stars-url]: https://github.com/schroedinger-Hat/sh-nuxt-template/stargazers
+[issues-shield]: https://img.shields.io/github/issues/schroedinger-Hat/sh-nuxt-template.svg?style=for-the-badge
+[issues-url]: https://github.com/schroedinger-Hat/sh-nuxt-template/issues
