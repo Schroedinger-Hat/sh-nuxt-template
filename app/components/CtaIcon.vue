@@ -1,15 +1,13 @@
 <script setup lang="ts">
 import type { ButtonVariants } from '~/components/ui/button'
 
-withDefaults(defineProps<{
+const { variant = 'outline' } = defineProps<{
   asChild?: boolean
   icon: string
   isAnchor?: boolean
   to?: string
   variant?: ButtonVariants['variant']
-}>(), {
-  variant: 'outline',
-})
+}>()
 </script>
 
 <template>
