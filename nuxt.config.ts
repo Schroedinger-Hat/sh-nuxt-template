@@ -1,5 +1,8 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
+  future: {
+    compatibilityVersion: 4,
+  },
   modules: [
     '@nuxt/test-utils/module',
     '@nuxtjs/tailwindcss',
