@@ -1,6 +1,6 @@
 <script setup lang="ts">
-import SHLogo from '~/assets/svg/sh-logo.svg'
 import NuxtLogo from '~/assets/svg/nuxt-logo.svg'
+import SHLogo from '~/assets/svg/sh-logo.svg'
 
 useSeoMeta({
   title: 'SH Nuxt Template',
