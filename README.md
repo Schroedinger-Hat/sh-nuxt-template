@@ -13,7 +13,7 @@
   <h1>Schrödinger Hat Nuxt Template</h1>
 
   <a href="https://github.com/schroedinger-Hat/template">
-    <img src="assets/svg/sh-logo.svg" alt="Logo" width="80" height="80">
+    <img src="app/assets/svg/sh-logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <p align="center">
