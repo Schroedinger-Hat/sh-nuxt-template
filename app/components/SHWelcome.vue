@@ -9,7 +9,7 @@ useSeoMeta({
 </script>
 
 <template>
-  <main class="flex justify-center items-center h-dvh bg-black">
+  <main class="flex justify-center items-center h-dvh bg-background">
     <SHLogo class="size-16 mr-4" />
     <NuxtLogo class="size-20" />
   </main>
